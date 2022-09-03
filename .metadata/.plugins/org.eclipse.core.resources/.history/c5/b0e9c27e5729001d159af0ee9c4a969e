@@ -1,0 +1,5 @@
+package net.javaguides.springBoot.exception;
+
+public class ResourceNotFoundException {
+
+}

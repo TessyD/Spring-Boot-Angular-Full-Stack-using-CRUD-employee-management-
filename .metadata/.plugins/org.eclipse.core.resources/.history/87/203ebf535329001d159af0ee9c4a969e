@@ -1,0 +1,5 @@
+package net.javaguides.springBoot.model;
+
+public class Employee {
+
+}
